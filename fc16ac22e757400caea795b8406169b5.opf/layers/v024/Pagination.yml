@@ -13,15 +13,15 @@ annotations:
     imgnum: 309
     reference: ''
     span:
-      start: 742
-      end: 2000
+      start: 741
+      end: 1991
     note_ref: b3343c9108a14b73ac5a07b19d033ee3
   b3343c9108a14b73ac5a07b19d033ee3:
     imgnum: 310
     reference: ''
     span:
-      start: 2003
-      end: 2503
+      start: 1993
+      end: 2354
 local_ids:
   206b777427a74fb2af5b49cf458a30a5: 200000
   7f07a40a740f41aa946c33f2956e8b19: 200001
